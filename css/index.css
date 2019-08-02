@@ -429,7 +429,7 @@ main {
   z-index: 300; }
 
 .site-footer-wrapper {
-  background: #455A64;
+  background: rgba(149, 18, 76, 0.54);
   margin-bottom: 50px;
   word-break: break-all; }
 
@@ -469,7 +469,7 @@ main {
       font-weight: bold; }
   .site-footer-info {
     width: 100%;
-    color: #CFD8DC; }
+    color: #193299; }
     .site-footer-info:not(:last-child) {
       margin-bottom: 5px; }
 
